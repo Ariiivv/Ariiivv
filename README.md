@@ -1,4 +1,4 @@
-# Hi, I'm Ariv Swamy 👋
+# Hi, I'm Pranav 👋
 
 ## 👨‍💻 Full Stack Web Developer
 
