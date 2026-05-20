@@ -1,86 +1,69 @@
-<!-- DARK IDENTITY REVEAL HEADER -->
+<!-- PROFESSIONAL HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/3ZQZQ9b.png" width="520" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F5F4&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Initializing+System...;Pranav+%7C+Ariiivv;Full+Stack+Engineer+%7C+Backend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F5F4&center=true&vCenter=true&width=650&lines=Pranav+%7C+Software+Engineer;Full+Stack+Developer;Backend+Focused+Builder;DSA+Problem+Solver;System+Design+Learner" />
 </p>
 
 ---
 
-# 👋 Pranav (aka Ariiivv)
+# 👋 Pranav (Ariiivv)
 
 ## 🚀 About Me
 
-Full Stack Developer focused on building structured, scalable, and production-grade systems.
+Full Stack Developer focused on building scalable, production-ready systems with clean architecture and efficient backend design.
 
-I specialize in backend-heavy development and enjoy designing systems with clean architecture, strong logic flow, and real-world usability.
+I enjoy solving real-world problems through structured engineering and consistent algorithmic thinking.
 
-Alongside development, I maintain strong focus on **Data Structures & Algorithms (DSA)** and problem-solving efficiency.
+I actively practice **Data Structures & Algorithms (DSA)** to improve logic, optimization, and system-level thinking.
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Tech Stack
 
 ### 🌐 Full Stack Development
 - HTML, CSS, JavaScript  
-- Frontend & Backend Development  
-- REST APIs & System Integration  
-- FastAPI / Backend Architecture Basics  
+- React (basic to intermediate)  
+- REST APIs  
+- Backend systems (FastAPI / Node.js basics)
 
-### 🧠 Computer Science Foundations
+### 🧠 Computer Science
 - Data Structures & Algorithms  
-- Problem Solving & Optimization  
-- System Design Thinking  
-- Logical Engineering Approach  
+- Problem Solving  
+- System Design fundamentals  
 
-### 🔧 Tools & Workflow
-- Git & GitHub (branching, PR workflow)  
-- Linux Environment  
-- Postman / API Testing  
-- Debugging & Refactoring
-
----
-
-## 🏗 What I Build
-
-- Scalable full stack applications  
-- Backend systems & APIs  
-- Structured software architectures  
-- Algorithmic problem-solving systems  
-- AI-assisted productivity systems (Prodify 🚀)
+### 🔧 Tools
+- Git & GitHub  
+- Linux  
+- Postman  
+- VS Code  
 
 ---
 
-## 🎯 Current Focus
-
-- Becoming a production-ready Full Stack Engineer  
-- Strengthening system design fundamentals  
-- Improving DSA consistency  
-- Building real-world scalable projects  
-- Developing AI-integrated backend systems  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ariiivv&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariiivv&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariiivv&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariiivv&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Focus Areas
+
+- Backend system design  
+- Scalable API development  
+- Consistent DSA practice  
+- Real-world project building  
+- AI-assisted engineering systems (Prodify 🚀)
+
+---
+
+## 📫 Connect
 
 - GitHub: https://github.com/Ariiivv  
 
 ---
 
-## 🧠 Closing
-
-Focused on building systems, not just writing code.
+⭐ Building systems, not just applications.
