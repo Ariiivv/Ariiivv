@@ -1,19 +1,23 @@
-<!-- IDENTITY REVEAL -->
+<!-- DARK IDENTITY REVEAL HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F5D4&center=true&vCenter=true&width=650&lines=Initializing+Profile...;Loading+Developer+Identity...;Pranav+%7C+Ariiivv;Full+Stack+Engineer" />
+  <img src="https://i.imgur.com/3ZQZQ9b.png" width="520" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F5F4&center=true&vCenter=true&width=700&lines=Booting+Developer+Profile...;Initializing+System...;Pranav+%7C+Ariiivv;Full+Stack+Engineer+%7C+Backend+Focused" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Pranav 
+# 👋 Pranav (aka Ariiivv)
 
 ## 🚀 About Me
 
-I am a Full Stack Developer focused on building scalable, maintainable, and production-ready applications.
+Full Stack Developer focused on building structured, scalable, and production-grade systems.
 
-I enjoy designing systems that go beyond simple applications — focusing on architecture, backend logic, and real-world usability.
+I specialize in backend-heavy development and enjoy designing systems with clean architecture, strong logic flow, and real-world usability.
 
-Alongside development, I actively practice **Data Structures & Algorithms (DSA)** to strengthen problem-solving and engineering thinking.
+Alongside development, I maintain strong focus on **Data Structures & Algorithms (DSA)** and problem-solving efficiency.
 
 ---
 
@@ -21,31 +25,31 @@ Alongside development, I actively practice **Data Structures & Algorithms (DSA)*
 
 ### 🌐 Full Stack Development
 - HTML, CSS, JavaScript  
-- Frontend & Backend development  
-- REST APIs and service integration  
-- FastAPI / backend system design basics  
+- Frontend & Backend Development  
+- REST APIs & System Integration  
+- FastAPI / Backend Architecture Basics  
 
-### 🧠 Computer Science Fundamentals
+### 🧠 Computer Science Foundations
 - Data Structures & Algorithms  
-- Problem solving and optimization  
-- Basic system design thinking  
-- Logical and structured reasoning  
+- Problem Solving & Optimization  
+- System Design Thinking  
+- Logical Engineering Approach  
 
 ### 🔧 Tools & Workflow
-- Git & GitHub (branching, PRs, version control)  
-- Linux environment basics  
-- API testing tools (Postman)  
-- Code debugging and refactoring practices  
+- Git & GitHub (branching, PR workflow)  
+- Linux Environment  
+- Postman / API Testing  
+- Debugging & Refactoring
 
 ---
 
 ## 🏗 What I Build
 
-- Full stack web applications  
-- Backend APIs and systems  
+- Scalable full stack applications  
+- Backend systems & APIs  
 - Structured software architectures  
-- Algorithmic problem-solving tools  
-- AI-assisted productivity systems (e.g., Prodify 🚀)
+- Algorithmic problem-solving systems  
+- AI-assisted productivity systems (Prodify 🚀)
 
 ---
 
@@ -53,7 +57,7 @@ Alongside development, I actively practice **Data Structures & Algorithms (DSA)*
 
 - Becoming a production-ready Full Stack Engineer  
 - Strengthening system design fundamentals  
-- Improving consistency in DSA practice  
+- Improving DSA consistency  
 - Building real-world scalable projects  
 - Developing AI-integrated backend systems  
 
@@ -79,4 +83,4 @@ Alongside development, I actively practice **Data Structures & Algorithms (DSA)*
 
 ## 🧠 Closing
 
-Focused on building systems, not just applications.
+Focused on building systems, not just writing code.
