@@ -1,34 +1,49 @@
-<!-- PROFESSIONAL HEADER -->
+<!-- HERO ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F5F4&center=true&vCenter=true&width=650&lines=Pranav+%7C+Software+Engineer;Full+Stack+Developer;Backend+Focused+Builder;DSA+Problem+Solver;System+Design+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00F5F4&center=true&vCenter=true&width=700&lines=Pranav+%7C+Ariiivv;Full+Stack+Developer;Backend+Builder;DSA+Enthusiast;System+Thinker;Building+Prodify+🚀" />
 </p>
 
 ---
 
-# 👋 Pranav (Ariiivv)
+# 👋 Hey, I'm Pranav (aka **Ariiivv**)
 
 ## 🚀 About Me
 
-Full Stack Developer focused on building scalable, production-ready systems with clean architecture and efficient backend design.
+I’m a **full stack developer** who focuses on building real, scalable, and structured systems — not just small projects.
 
-I enjoy solving real-world problems through structured engineering and consistent algorithmic thinking.
+I like turning ideas into working software with clean backend logic, usable frontend design, and strong system thinking.
 
-I actively practice **Data Structures & Algorithms (DSA)** to improve logic, optimization, and system-level thinking.
+I spend a lot of time improving **problem-solving, DSA, and backend architecture skills**, while actively building real projects like **Prodify 🚀**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ What I’m Working On
 
-### 🌐 Full Stack Development
+- 🧠 **Prodify** → AI-powered behavioral productivity system (main project)
+- ⚙️ Backend systems with FastAPI
+- 📊 Session tracking + behavioral analytics engine
+- ⏱ Adaptive productivity timer logic
+- 🤖 AI-assisted task planning concepts
+- 🧩 Improving system design understanding
+
+---
+
+## 💻 Tech Stack
+
+### 🌐 Frontend
 - HTML, CSS, JavaScript  
-- React (basic to intermediate)  
-- REST APIs  
-- Backend systems (FastAPI / Node.js basics)
+- React (intermediate level)  
 
-### 🧠 Computer Science
+### ⚙️ Backend
+- FastAPI  
+- REST APIs  
+- Basic system architecture design  
+
+### 🧠 Core Skills
 - Data Structures & Algorithms  
 - Problem Solving  
-- System Design fundamentals  
+- System Thinking  
+- Debugging & Optimization  
 
 ### 🔧 Tools
 - Git & GitHub  
@@ -38,7 +53,7 @@ I actively practice **Data Structures & Algorithms (DSA)** to improve logic, opt
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ariiivv&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -50,20 +65,20 @@ I actively practice **Data Structures & Algorithms (DSA)** to improve logic, opt
 
 ---
 
-## 🧠 Focus Areas
+## 🏆 Highlights
 
-- Backend system design  
-- Scalable API development  
-- Consistent DSA practice  
-- Real-world project building  
-- AI-assisted engineering systems (Prodify 🚀)
+- Built multiple full stack projects  
+- Designing AI-driven productivity system (Prodify)  
+- Strong focus on backend + system thinking  
+- Consistent DSA practice mindset  
+- Moving toward production-level development skills  
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 - GitHub: https://github.com/Ariiivv  
 
 ---
 
-⭐ Building systems, not just applications.
+⭐ *Building systems that actually do something useful.*
